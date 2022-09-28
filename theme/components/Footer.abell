@@ -1,7 +1,8 @@
 <AbellComponent>
 <template>
   <footer>
-    <div style="text-align: right;">© <span class="footer-year"></span>, Built with <a href="https://github.com/abelljs/abell">Abell</a></div>
+  
+    <div style="text-align: right;">build by rk © <span class="footer-year"></span></div>
   </footer>
 </template>
 

@@ -3,8 +3,10 @@ module.exports = {
   destinationPath: 'dist',
   contentPath: 'content',
   globalMeta: {
-    siteName: 'Abell Minima',
-    twitter: 'AbellLand',
-    domain: 'https://abell-starter-minima.netlify.app'
+    siteName: 'Ramkrishnan Thevar',
+    twitter: '1rkthevar',
+    Linkedin: '1ramkrishnan',
+    facebook: 'ramkrishnan.thevar',
+    domain: 'https://1ramkrishnan.github.com'
   }
 }

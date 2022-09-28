@@ -11,8 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
-    "abell": "^0.10.0"
+    "abell": "^0.10.3"
   }
 }

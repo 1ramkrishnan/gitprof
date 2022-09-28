@@ -54,15 +54,15 @@
 <style global>
   .header {
     width: 100%;
-    padding: 100px 250px 50px;
+    padding: 20px 20px 20px;
   }
   .header > h1 {
-    margin: 10px 0px;
-    font-size: 4.2rem;
+    margin: 4px 0px;
+    font-size: 2rem;
   }
 
   .header-bio {
-    padding: 20px 0px;
+    padding: 10px 0px;
     font-size: 1.2rem;
     line-height: 30px;
   }
@@ -112,6 +112,9 @@
       font-size: 1.3rem;
     }
   }
+
+    .social-links a { display: -moz-inline-stack; display: inline-block; zoom: 1; *display: inline; margin: 0; padding: 0.05em; color: #555!important; font-size: 27px!important; }
+
 </style>
 
 

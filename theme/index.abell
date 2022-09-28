@@ -28,16 +28,36 @@
   <DarkModeToggle props={ $root } />
   <div class="header">
     <h1>{{ globalMeta.siteName }}</h1>
+    
     <div class="header-bio">
-      Abell Minima is a starter blog built with Abell. <br/>This template is designed 
-      and maintained by 
-      <a href="https://twitter.com/{{ globalMeta.twitter }}">Twitter @{{ globalMeta.twitter }}</a>.
-    </div>
-  </div>
+    <h4>Tech Enthusiast | Software Developer | Freelancer.</h4> <p>
+      Technology focused with 7+ years of experience in capital market, software development and project management.<br>
+      Deep expertise in Application lifecycle management. Also a part-time freelancer , if you want to me to work on<br>
+       your project/business do <a href="https://wa.me/message/44OBR2ND4KVQI1">contact me.<p>
+      <img src="https://github-readme-stats.vercel.app/api?username=1ramkrishnan&count_private=true&hide=prs,issues">
+ 
+   </div>
+<div class="body"
+   <hr>
+<h3 id="links">Links</h3>
 
-  <main>
-    <ArticlesPreview props={ contentArray } />
-  </main>
+<p><a href="https://www.linkedin.com/in/1ramkrishnan">Linkedin</a> | 
+<a href="https://twitter.com/1rkthevar">Twitter</a> | 
+<a href="https://www.facebook.com/ramkrishnan.thevar">Facebook</a> | 
+<a href="https://wa.me/message/44OBR2ND4KVQI1">Whatsapp</a> | 
+<a href="https://t.me/rkthevar1">Telegram</a> | 
+<a href="https://discord.gg/nPFbdrP3">root-access(Discord)</a></p>
+
+<p><a href="https://m.do.co/c/ae0ed06d6ce2">Digital Ocean Affiliated link</a></p>
+
+<p><a href="https://rzp.io/l/rkSoftwares">Project payment &amp; Sponsor link</a></p>
+
+<p><a href="https://drive.google.com/file/d/12w1osvd-fb0uepgmTN414NOTrXZlGwxQ/view">CV Download</a></p>
+
+<h4 id="if-youre-not-paying-for-the-product-then-you-are-the-product">“If you’re not paying for the product, then you are the product.”</h4>
+<h4 id="️">✌️</h4>
+</div>
+  
   <Footer/>
 </body>
 </html>
